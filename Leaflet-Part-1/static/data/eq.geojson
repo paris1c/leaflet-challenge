@@ -1,0 +1,86 @@
+{"type":"FeatureCollection","metadata":
+    {"generated":1657749767000,
+        "url":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+        "title":"USGS Significant Earthquakes, Past Week",
+        "status":200,"api":"1.10.3",
+        "count":2
+    },
+"features":
+    [{
+        "type":"Feature",
+        "properties":
+        {
+            "mag":6.8,
+            "place":"Easter Island region",
+            "time":1657653419226,
+            "updated":1657747222126,
+            "tz":null,
+            "url":"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1wg",
+            "detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000i1wg.geojson",
+            "felt":1,
+            "cdi":2.5,
+            "mmi":0,
+            "alert":"green",
+            "status":"reviewed",
+            "tsunami":1,
+            "sig":712,
+            "net":"us",
+            "code":"6000i1wg",
+            "ids":",at00rex34t,us6000i1wg,pt22193052,",
+            "sources":",at,us,pt,",
+            "types":",dyfi,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst":146,
+            "dmin":6.292,
+            "rms":0.85,
+            "gap":32,
+            "magType":"mww",
+            "type":"earthquake",
+            "title":"M 6.8 - Easter Island region"
+        },
+        "geometry":
+        {
+            "type":"Point",
+            "coordinates":[-114.2227,-22.6455,10]
+        },
+        "id":"us6000i1wg"
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "mag":4.7,"
+            place":"14 km SE of Tyonek, Alaska",
+            "time":1657610698285,
+            "updated":1657748934605,
+            "tz":null,
+            "url":"https://earthquake.usgs.gov/earthquakes/eventpage/ak0228vb1a7q",
+            "detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0228vb1a7q.geojson",
+            "felt":1382,
+            "cdi":5.4,
+            "mmi":3.869,
+            "alert":"green",
+            "status":"reviewed",
+            "tsunami":1,
+            "sig":880,
+            "net":"ak",
+            "code":"0228vb1a7q",
+            "ids":",at00rewcll,ak0228vb1a7q,us6000i1rq,",
+            "sources":",at,ak,us,",
+            "types":",dyfi,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst":null,
+            "dmin":null,
+            "rms":0.72,
+            "gap":null,
+            "magType":"ml",
+            "type":"earthquake",
+            "title":"M 4.7 - 14 km SE of Tyonek, Alaska"
+        },
+        "geometry":
+        {
+            "type":"Point",
+            "coordinates":[-150.9365,60.9805,51.1]
+        },
+        "id":"ak0228vb1a7q"
+    }],
+    "bbox":[-150.9365,-22.6455,10,-114.2227,60.9805,51.1]
+}
