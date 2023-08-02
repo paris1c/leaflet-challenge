@@ -1,5 +1,4 @@
-# Check the visualization with Leaflet here: 
-### https://paris1c.github.io/leaflet-challenge/ 
+# Check the visualization with Leaflet here: ### https://paris1c.github.io/leaflet-challenge/ 
 
 ## Background
 
